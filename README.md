@@ -101,10 +101,8 @@ To provide an easy-to-use, visually engaging dashboard that helps:
 ### Dashboard Preview
 
 **Swiggy vs Zomato Dashboard**
-![Swiggy Dashboard]([attachment\:Swiggy.png](https://github.com/Justin0824/Swiggy-vs-Zomato-Food-Delivery-Dashboard/blob/main/Swiggy.png))
-![Zomato Dashboard](attachment\:Zomato.png)
 ![Home Page](https://github.com/Justin0824/Swiggy-vs-Zomato-Food-Delivery-Dashboard/blob/main/Home%20Page.png)
+![Swiggy Dashboard](https://github.com/Justin0824/Swiggy-vs-Zomato-Food-Delivery-Dashboard/blob/main/Swiggy.png)
+![Zomato Dashboard](https://github.com/Justin0824/Swiggy-vs-Zomato-Food-Delivery-Dashboard/blob/main/Zomato.png)
 
----
 
-Let me know if you'd like this exported as a Markdown `.md` file or want help uploading this to GitHub with folder structure.
